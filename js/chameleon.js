@@ -9,6 +9,8 @@ var Language = {
 	//Names for this language
 	names: ['base', 'default'],
 	
+	syntax: {},
+	
 	//Used to create a new language with the specified names
 	create: function (names) {
 		var language = Object.create(this);
