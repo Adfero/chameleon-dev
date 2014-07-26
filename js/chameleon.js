@@ -70,7 +70,7 @@ var CSS = {
 					'background-origin,background-position,background-repeat,background-size,border,border-bottom,border-bottom-color,' +
 					'border-bottom-left-radius,border-bottom-right-radius,border-bottom-style,border-bottom-width,border-collapse,' +
 					'border-color,border-image,border-image-outset,border-image-repeat,border-image-slice,border-image-source,' +
-					'border-image-width,border-left,border-left-color,border-left-style,border-left-width,border-radius,border-right,
+					'border-image-width,border-left,border-left-color,border-left-style,border-left-width,border-radius,border-right,' +
 					'border-right-color,border-right-style,border-right-width,border-spacing,border-style,border-top,border-top-color,' +
 					'border-top-left-radius,border-top-right-radius,border-top-style,border-top-width,border-width,bottom,box-shadow,' +
 					'box-sizing,caption-side,clear,clip,color,column-count,column-fill,column-gap,column-rule,column-rule-color,' +
